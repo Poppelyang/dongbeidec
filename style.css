@@ -20,7 +20,7 @@ h2 {
 }
 
 h1 {
-    font-size: 30pt;
+    font-size: 20pt;
     margin-bottom: 10px;
 }
 
@@ -168,7 +168,7 @@ img {
   Class applied to choice links
 */
 .choice a {
-    font-size: 15pt;
+    font-size: 12pt;
 }
 
 /* 
